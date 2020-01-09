@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lorem Ipsum"
-tags: Javascript Python
+tags: javascript python
 ---
 
 ## Lorem Ipsum

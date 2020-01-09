@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Markdown Test Page"
-tags: Javascript
+tags: javascript
 ---
 
 ## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)
