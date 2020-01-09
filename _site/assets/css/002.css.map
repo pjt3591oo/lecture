@@ -3,8 +3,8 @@
 	"file": "002.css",
 	"sources": [
 		"002.scss",
-		"../../프로젝트/windows-95/_sass/_reset.scss",
-		"../../프로젝트/windows-95/_sass/_main.scss"
+		"_sass/_reset.scss",
+		"_sass/_main.scss"
 	],
 	"sourcesContent": [
 		"@import \"reset\";\n@import \"main\";\n\n.default_title {\n\tbackground: #808080;\n}\n.post_title {\n\tbackground: #00007f;\n}\n",
